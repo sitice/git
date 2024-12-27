@@ -11,7 +11,7 @@
 
 ## 2. 结构
 
-![image](./5bb768876769238f6553df2ef7197558.jpg)
+![image](pictures/5bb768876769238f6553df2ef7197558.jpg)
 
 ## 3. 常用命令
 
@@ -124,14 +124,14 @@ git 会在项目的根目录创建.git文件夹，保存git相关信息
 #### 3.12.1. 创建ssh key
 
     ssh-keygen -t sra -C "youremmail@example.com"
-![alt text](image.png)
+![alt text](pictures/image.png)
 
 - id_rsa：私钥
 - id_rsa_pub：公钥
 
 复制 id_rsa_pub 中的内容到github中
 
-![alt text](image-1.png)
+![alt text](pictures/image-1.png)
 
 #### 3.12.2. 添加远程仓库
 
